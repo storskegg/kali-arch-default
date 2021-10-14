@@ -1,1 +1,1 @@
-# kali-arch-default
+# kali-arch-core
